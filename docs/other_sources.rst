@@ -4,7 +4,7 @@
 Other Sources
 =============
 
-1. Link to somewhere else
+1. Link to somewhere else (though this is not truly a link)
 2. Link to another `website <https://google.com>`_
 
 What about a code block?::
@@ -12,12 +12,14 @@ What about a code block?::
    Surrounded by blank lines
    Indented three spaces on each line
 
-Then the regular text resumes.
+Then the regular text resumes below the block.
 
-Displaying an image may be important to some projects.
+Displaying an image may be important to some projects. It's not necessarily intuitive.
 
-.. figure:: docs/Geese.JPG
-   :target: https://docsforreal.readthedocs.io/images/Geese.JPG
+.. figure:: https://github.com/hauten/DocsForReal/blob/master/geese.jpg?raw=true
+   :target: https://docsforreal.readthedocs.io/shared_images/geese.jpg
    :alt: Two Canada geese standing in grass.
-   :height: 72px
+   :height: 100px
    :align: center
+
+   This is the figure caption for the Canada geese.
