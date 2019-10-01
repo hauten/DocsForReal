@@ -17,7 +17,6 @@ Then the regular text resumes below the block.
 Displaying an image may be important to some projects. It's not necessarily intuitive.
 
 .. figure:: https://github.com/hauten/DocsForReal/blob/master/geese.jpg?raw=true
-   :target: https://docsforreal.readthedocs.io/geese.jpg
    :alt: Two Canada geese standing in grass.
    :height: 100px
    :align: center
